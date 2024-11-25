@@ -42,7 +42,7 @@ public:
         cout << "Total marks is " << totMarks << endl;
     }
 };
-
+//class sports and virtual public class.
 class Sports : virtual public Student
 {
 protected:
